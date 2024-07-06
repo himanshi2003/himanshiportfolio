@@ -1,9 +1,9 @@
 export const Bio = {
-    name: "Rishav Chanda",
+    name: "Himanshi Aggarwal",
     roles: [
-      "Full Stack Developer",
-      "Android Developer",
-      "UI/UX Designer",
+      "Frontend Developer",
+      "Software Engineer",
+      "React Developer ",
       "Programmer",
     ],
     description:
