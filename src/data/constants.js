@@ -222,7 +222,7 @@ export const Bio = {
   
   export const projects = [
     {
-      id: 9,
+      id: 0,
       title: "URL SHORTENER",
       date: "Jun 2024 - Jul 2024",
       description:
@@ -242,7 +242,7 @@ export const Bio = {
       webapp: "https://url-shortner-eta-three.vercel.app/",
     },
     {
-      id: 0,
+      id: 1,
       title: "SORTING VISUALIZER",
       date: "June 2024 - July 2024",
       description:
@@ -256,7 +256,7 @@ export const Bio = {
       
     },
     {
-      id: 1,
+      id: 2,
       title: "PATH FINDING VISUALIZER",
       date: "2022 -2022",
       description:
@@ -273,7 +273,7 @@ export const Bio = {
       webapp: "https://pathfindingvisualizer-ruby.vercel.app/",
     },
     {
-      id: 1,
+      id: 3,
       title: "TODO-APP",
       date: "2024-2024",
       description:
@@ -288,6 +288,22 @@ export const Bio = {
       category: "web app",
       github: "https://github.com/himanshi2003/ToDoApp",
       webapp: "https://to-do-app-eta-indol.vercel.app/",
+    },
+    {
+      id: 4,
+      title: "Random-Gif",
+      date: "2024-2024",
+      description:
+        "A random GIF generator is an interactive project designed to display a random GIF each time a user accesses the generator. By utilizing APIs or a library of GIFs, the project can fetch and display an assortment of GIFs on demand. Users can experience the excitement of unpredictability as they are presented with a different GIF with each interaction.",
+      image:
+     "https://i.ibb.co/nmGDfP6/Screenshot-2024-08-10-at-10-22-37-AM.png",
+      tags: [
+        "React Js",
+    
+      ],
+      category: "web app",
+      github: "https://github.com/himanshi2003/random-gif",
+      webapp: "https://random-gif-vert.vercel.app/",
     },
 
   ];
