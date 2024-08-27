@@ -305,6 +305,22 @@ export const Bio = {
       github: "https://github.com/himanshi2003/random-gif",
       webapp: "https://random-gif-vert.vercel.app/",
     },
+    {
+      id: 5,
+      title: "Hirrd",
+      date: "2024-2024",
+      description:
+        "Developed a job portal using React, Supabase, and ShadCN UI with clear user authentication.Implemented secure backend services and real-time data handling with Supabase and user authentication using clerk .",
+      image:
+    "https://i.ibb.co/C8c9ks8/Screenshot-2024-08-27-at-12-25-11-PM.png" ,
+      tags: [
+        "React Js",
+    
+      ],
+      category: "web app",
+      github: "https://github.com/himanshi2003/job-portal-site",
+      webapp: "https://hirrd-tawny.vercel.app/",
+    },
 
   ];
   
